@@ -8,4 +8,4 @@ To launch the initiative, we introduce NEMObeta as a proposal. NEMObeta should b
 
 NEMObeta has been taken from the HUTUBS database, which is available here: http://dx.doi.org/10.14279/depositonce-8487 .
 
-F. Brinkmann, M. Dinakaran, R. Pelzer, J. Wohlgemuth, F. Seipl, and S. Weinzierl, “The HUTUBS HRTF database,” (2019).
+F. Brinkmann, M. Dinakaran, R. Pelzer, J. Wohlgemuth, F. Seipl, and S. Weinzierl (2019). “The HUTUBS HRTF database”.
